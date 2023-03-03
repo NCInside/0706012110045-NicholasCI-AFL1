@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04C0A47529AD9DE00032E354 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C0A47429AD9DE00032E354 /* main.swift */; };
+		04C0A47E29ADA4C60032E354 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C0A47D29ADA4C60032E354 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		04C0A47129AD9DE00032E354 /* 0706012110045-NicholasCI-AFL 1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "0706012110045-NicholasCI-AFL 1"; sourceTree = BUILT_PRODUCTS_DIR; };
-		04C0A47429AD9DE00032E354 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		04C0A47D29ADA4C60032E354 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = main.swift; path = ../../../.Trash/main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		04C0A47329AD9DE00032E354 /* 0706012110045-NicholasCI-AFL 1 */ = {
 			isa = PBXGroup;
 			children = (
-				04C0A47429AD9DE00032E354 /* main.swift */,
+				04C0A47D29ADA4C60032E354 /* main.swift */,
 			);
 			path = "0706012110045-NicholasCI-AFL 1";
 			sourceTree = "<group>";
@@ -120,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04C0A47529AD9DE00032E354 /* main.swift in Sources */,
+				04C0A47E29ADA4C60032E354 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
